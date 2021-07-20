@@ -17,5 +17,9 @@ Debug* debugger = new Debug();
 	debugger->PrintAddressNoLog("PrintAddressNoLog\n");
 	debugger->printf("printf\n");
 ```
+
+---
+
 One instance of the code block above appears like:
+
 ![debug outputs](https://user-images.githubusercontent.com/52811202/126396448-1047c1df-ab5b-4e64-9250-7a8c4b9bf7a2.png)

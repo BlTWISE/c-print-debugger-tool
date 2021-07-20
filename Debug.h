@@ -10,7 +10,6 @@ public:
 	void resetConsole();
 	void setConsoleColorTo(int x);
 	void NormalPrint(const char* fmt, ...);
-	void GreenPrintLogOnly(const char* fmt, ...);
 	void GreenPrint(const char* fmt, ...);
 	void RedPrint(const char* fmt, ...);
 	void GreyPrint(const char* fmt, ...);
